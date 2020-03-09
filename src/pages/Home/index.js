@@ -11,7 +11,7 @@ class Home extends React.Component {
             <div className="card">
                  <Animated animationIn="fadeIn" animationOut="fadeOut" animationInDuration={4000} isVisible={true}>
                     <div>
-                        <h1>Hello world ;)</h1>
+                        <h1>Hello world! ;)</h1>
                     </div>
                 </Animated>
                 <div>

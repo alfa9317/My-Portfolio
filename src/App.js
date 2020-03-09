@@ -8,6 +8,7 @@ function App() {
     <Router>
       <div className="App">
         <Route exact path="/My-Portfolio" component={Home} />
+        <Route exact path="/eso" component={Home}/>
       </div>
     </Router>
   );
